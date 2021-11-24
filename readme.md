@@ -44,7 +44,8 @@ Iremos avaliar como você resolveu problemas como:
 - armazenamento das informações do front-end;
 - gerenciamento dos arquivos do projeto;
 - versionamento do código fonte;
-- utilização da biblioteca React, através ou não do framework Next js.
+- utilização da biblioteca React, através ou não do framework Next js;
+- fidelidade ao layout.
 
 Lembramos que você não precisa se limitar a esses pontos durante a resolução do desafio. Nós queremos entender principalmente como você pensa enquanto tenta resolver os problemas.
 
