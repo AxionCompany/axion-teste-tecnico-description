@@ -59,6 +59,6 @@ Lembramos que você não precisa se limitar a esses pontos durante a resolução
 
 4 - Enviar seu projeto (tanto Front-end quanto Back-end) para o Github (pode ser Gitlab)
 
-5 - Enviar os links dos repositórios no email **axion@axion.company**
+5 - Enviar os links dos repositórios no email **dex@dex.company**
 
 **Boa sorte! 🚀**
