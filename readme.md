@@ -32,7 +32,7 @@ Outra característica interessante para se tornar um Axioner é a forma com que 
 
 # Estimativa de tempo⏱️
 
-Esperamos que você consiga resolver o teste dentro do intervalo de **uma semana** após o envio do mesmo**.**
+Esperamos que você consiga resolver o teste dentro do intervalo de **5 dias** após o envio do mesmo.
 
 # O que será avaliado?
 
